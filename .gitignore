@@ -1,10 +1,14 @@
 # default
+i
+
+# default
 node_modules/
 dist/
 coverage/
 .env
 *.log
 .DS_Store
+i
 
 # Logs
 logs
